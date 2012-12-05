@@ -1,0 +1,1 @@
+A tool for pinging a list of IPs and/or hostnames. Mostly an exercize in understanding python's threading module.
